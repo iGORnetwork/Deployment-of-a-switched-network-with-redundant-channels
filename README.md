@@ -13,7 +13,12 @@ S3
 
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_4.png)
 
-# Проверим связь 
+Проверим связь 
 
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_5.png)
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_6.png)
+
+# Определение корневого моста
+
+1 Отключаем все порты на коммутаторах.
+
