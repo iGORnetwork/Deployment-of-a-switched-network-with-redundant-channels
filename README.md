@@ -22,3 +22,4 @@ S3
 
 1 Отключаем все порты на коммутаторах.
 
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_7.png)
