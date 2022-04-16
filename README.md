@@ -27,3 +27,5 @@ S3
 2 Настроем подключенные порты в качестве транковых
 
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_8.png)
+
+3 Включим порты E0/1 и E0/ на всех коммутаторах
