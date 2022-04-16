@@ -6,3 +6,9 @@ S1
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_2.png)
 
 S2
+
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_3.png)
+
+S3
+
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_4.png)
