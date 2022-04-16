@@ -32,6 +32,10 @@ S3
 
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_9.png)
 
+4 Отобразим данные протокола spanning-tree
+
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_10.png)
+
 
 
 
