@@ -25,3 +25,5 @@ S3
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_7.png)
 
 2 Настроем подключенные порты в качестве транковых
+
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_8.png)
