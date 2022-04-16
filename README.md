@@ -29,3 +29,5 @@ S3
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_8.png)
 
 3 Включим порты E0/1 и E0/ на всех коммутаторах
+
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_9.png)
