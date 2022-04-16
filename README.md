@@ -36,7 +36,7 @@ S3
 
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_10.png)
 
-С учетом выходных данных, поступающих с коммутаторов, ответьте на следующие вопросы
+
 
 
 
