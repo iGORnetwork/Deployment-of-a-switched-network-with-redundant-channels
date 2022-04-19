@@ -38,7 +38,7 @@ S3
 
 С учетом выходных данных, поступающих с коммутаторов, ответьте на следующие вопросы.
 
-
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_11.png)
 
 
 
