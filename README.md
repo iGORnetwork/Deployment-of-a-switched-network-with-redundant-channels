@@ -47,4 +47,6 @@ S3
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_12.png)
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_13.png)
 
+2 Удалите изменения стоимости порта.
+
 
