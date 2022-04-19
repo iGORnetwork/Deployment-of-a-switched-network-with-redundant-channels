@@ -49,4 +49,6 @@ S3
 
 2 Удалите изменения стоимости порта.
 
+[](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_14.png)
+
 
