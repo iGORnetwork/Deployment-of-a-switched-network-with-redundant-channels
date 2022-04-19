@@ -40,8 +40,9 @@ S3
 
 ![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_11.png)
 
+# Наблюдение за процессом выбора протоколом SMTP порта, исходя из стоимости портов
 
-
+1 Измените стоимость порта.
 
 
 
