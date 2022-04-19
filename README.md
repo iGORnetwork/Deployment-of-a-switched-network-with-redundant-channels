@@ -44,6 +44,7 @@ S3
 
 1 Измените стоимость порта.
 
-
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_12.png)
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_13.png)
 
 
