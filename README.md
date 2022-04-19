@@ -53,3 +53,5 @@ S3
 
 # Наблюдение за процессом выбора протоколом STP порта, исходя из приоритета портов
 
+![](https://github.com/iGORnetwork/Deployment-of-a-switched-network-with-redundant-channels/blob/main/image/Screenshot_15.png)
+
